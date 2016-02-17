@@ -1,0 +1,6 @@
+C:\Users\YUKIT\Documents\GitHub\GameDev\Test\Test\bin\Debug\Test.exe.config
+C:\Users\YUKIT\Documents\GitHub\GameDev\Test\Test\bin\Debug\Test.exe
+C:\Users\YUKIT\Documents\GitHub\GameDev\Test\Test\bin\Debug\Test.pdb
+C:\Users\YUKIT\Documents\GitHub\GameDev\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\YUKIT\Documents\GitHub\GameDev\Test\Test\obj\Debug\Test.exe
+C:\Users\YUKIT\Documents\GitHub\GameDev\Test\Test\obj\Debug\Test.pdb
