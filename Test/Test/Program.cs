@@ -6,9 +6,25 @@ namespace Test
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
-			Console.Write("Press any key to continue . . . ");
+			Weapon sword = new Weapon();
+			sword.damage = 100;
+			sword.magic = 20;
+			
+			int damage = sword.damageCalculate();
+			
+			Console.WriteLine(damage);
 			Console.ReadKey(true);
+		}
+	}
+	class Weapon
+	{
+		public int damage;
+		public int magic;
+		
+		public int damageCalculate()
+		{
+			int bossdamage = damage + magic;
+			return bossdamage;
 		}
 	}
 }
