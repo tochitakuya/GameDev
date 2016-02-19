@@ -24,9 +24,6 @@ Open in Git Shellをクリック。
 -------------------------------------------------------------------
 
 
-
-git remote add upstream git@github.com:yukit1028/GameDev.git
-
 git fetch upstream
 
 git checkout master
